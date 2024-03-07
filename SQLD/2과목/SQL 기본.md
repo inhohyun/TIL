@@ -213,7 +213,7 @@ WHERE절에도 사용할 수 있는 조건절이면 HAVING절보단 WHERE절에�
 
 #### 조인 종류
 1. 조건의 형태에 따라
-   - EQUI JOIN(등가 조인) : JOIN 조건이 동등 조건이 아닌 경우
+   - EQUI JOIN(등가 조인) : JOIN 조건이 동등 조건인 경우
    - NON EQUI JOIN : JOIN 조건이 동등 조건이 아닌 경우
 2. 조인 결과에 따라
    - INNER JOIN : JOIN 조건에 성립하는 데이터만 출력하는 경우
